@@ -6,3 +6,16 @@
     color: blanchedalmond;
     padding: 50px;
 }
+
+#container{
+    padding: 50px;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    align-items: start;
+}
+
+
+#search{
+   font-size: 45px;
+}
