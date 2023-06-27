@@ -1,4 +1,4 @@
-const apiKey = "5487fa7372ee9218e9ccc1d3c026ea3b";
+const apiKey = "a4adf79fb7dd52f4db0fe1fc7f243460";
 // let city_name = document.getElementById('search-btn')
 let city_name = document.getElementById('text')
 
